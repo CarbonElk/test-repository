@@ -1,3 +1,2 @@
-# test-repository
-
-This is a second example
+# My very first REPO
+Oscar is amazing
